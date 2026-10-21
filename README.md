@@ -12,3 +12,4 @@ Department: School of Future Technology, Jain University
 | Day 02 | Variables & Built-in Functions | Done |
 | Day 03 | Operators | Done |
 | Day 04 | Strings | Done |
+| Day 05 | Lists | Done |
